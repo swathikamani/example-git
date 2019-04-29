@@ -2,3 +2,4 @@ This is first file of git.
 Masters in Computer science
 Masters in Computer Applications
 Masters in Business Administration
+Bachelor of Science
