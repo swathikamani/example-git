@@ -1,6 +1,9 @@
 This is first file of git.
-Masters in Computer science
-Masters in Computer Applications
-Masters in Business Administration
-Bachelor of Science
-Post Graduate Diploma in Mathematics
+Masters in Computer science  Pass Grade
+Masters in Computer Applications  A Grade
+Masters in Business Administration  A+ Grade
+Bachelor of Science  A+ Grade
+Post Graduate Diploma in Mathematics Pass Grade
+
+
+Percentages
